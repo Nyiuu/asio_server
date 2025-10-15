@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/home/nyiuu/workplace/asio_server",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-std=c++20", "-o", "build/.objs/asio_echo_server/linux/x86_64/release/echo_co_server.cpp.o", "echo_co_server.cpp"],
+  "file": "echo_co_server.cpp"
+}]
